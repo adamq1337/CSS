@@ -1,0 +1,23 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+  
+  .paragraph-1{
+        color: blue;
+    }
+
+
+
+
+div{
+    width: 80%;
+    max-width: 600px;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Inter, sans-serif;
+
+    border: 4px solid blue;
+
+}
